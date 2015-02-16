@@ -12,6 +12,8 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+ltong2
+
 License/Copyright
 =================
 
