@@ -27,6 +27,7 @@ HTML Modifications: added tag for CSS file.
 Added a old paper as background.
 Change the text color and font.
 Set boarder to solid black
+Set boarder to the images
 change the body text to Arial Black and Arial Bold
 Set bold effect and color change on both subtitles and tiltes.
 *css file is named part1.css 
